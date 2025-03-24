@@ -129,7 +129,7 @@ Estou sempre em busca de novos desafios e oportunidades para aprender algo da ho
 <img 
       align="left" 
       alt="GitHub Stats" 
-      height="210" 
+      height="215" 
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=VenturaCerqueira&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
   />
 
