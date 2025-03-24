@@ -7,7 +7,7 @@ Fala aí! Sou **Analista de Sistemas**, apaixonado por tecnologia e criação de
 - **Banco de Dados**: Domínio de SQL com Firebird e MySQL 🎯 
 Estou sempre em busca de novos desafios e oportunidades para aprender algo da hora. 💡
 
-
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/andersonventuracerqueira/)
 <p align="left">
     <a href="https://github.com/VenturaCerqueira?tab=repositories&sort=stargazers">
         <img 
@@ -24,6 +24,7 @@ Estou sempre em busca de novos desafios e oportunidades para aprender algo da ho
         />
     </a>
 </p>
+
 
 ---
 
