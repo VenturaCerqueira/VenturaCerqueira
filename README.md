@@ -1,11 +1,15 @@
-# 👩🏻‍💻 Larissa Kich
+# 👨🏻‍💻 Anderson Ventura Cerqueira Batista 
 
-**`Desenvolvedor`**
+**`Desenvolvedor/B.I.`**
 
-Me chamo Anderson Ventura Cerqueira Batista, tenho 25 anos e sou natural da Bahia.
+Fala aí! Sou **Analista de Sistemas**, apaixonado por tecnologia e criação de soluções incríveis. Minha vibe é full-stack, mas meu coração bate forte por:
+- **Back-end**: Node.js e Python na veia! 🐍✨  
+- **Banco de Dados**: Domínio de SQL com Firebird e MySQL 🎯 
+Estou sempre em busca de novos desafios e oportunidades para aprender algo da hora. 💡
+
 
 <p align="left">
-    <a href="https://github.com/Larissakich?tab=repositories&sort=stargazers">
+    <a href="[https://github.com/Larissakich?tab=repositories&sort=stargazers](https://github.com/VenturaCerqueira)">
         <img 
             alt="Total de estrelas" 
             title="Total de estrelas GitHub" 
