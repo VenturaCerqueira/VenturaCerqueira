@@ -121,15 +121,15 @@ Estou sempre em busca de novos desafios e oportunidades para aprender algo da ho
   <img 
     align="left" 
     alt="GitHub Stats" 
-    height="250" 
-    style="padding-right: 15px;" 
+    height="200" 
+    style="padding-right: 8px;" 
     src="https://github-readme-stats.vercel.app/api?username=VenturaCerqueira&show_icons=true&theme=tokyonight&include_all_commits=True&locale=pt-br" 
   />
 
 <img 
       align="left" 
       alt="GitHub Stats" 
-      height="250" 
+      height="200" 
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=VenturaCerqueira&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
   />
 
