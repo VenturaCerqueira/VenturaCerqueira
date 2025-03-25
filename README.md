@@ -193,8 +193,7 @@ Se você curtiu meus projetos ou achou algo útil, considere:
 - [Dev Beats](https://www.spotify.com/playlist/id-do-playlist)
 - [Coding Music](https://www.spotify.com/playlist/id-do-playlist)
 
-![Snake animation](https://github.com/VenturaCerqueira/VenturaCerqueira/blob/main/github-contribution-grid-snake.svg)
-
+![Cobrinha de Contribuições](https://github.com/Platane/snk/blob/output/github-contribution-grid-snake.svg?username=VenturaCerqueira)
 
 ##
 
