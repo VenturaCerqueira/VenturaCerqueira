@@ -1,8 +1,13 @@
-   
+[![Dark Mode](https://img.shields.io/badge/Dark%20Mode-000000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/VenturaCerqueira)
+[![Light Mode](https://img.shields.io/badge/Light%20Mode-FFFFFF?style=for-the-badge&logo=github&logoColor=black)](https://github.com/VenturaCerqueira)
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=22&width=600&color=000000&lines=👨‍💻+Desenvolvedor+Full-stack;🐍+Python+e+Node.js+Fanboy;💡+Apaixonado+por+soluções+criativas)](https://git.io/typing-svg)
+
+
 # 👨🏻‍💻 Anderson Ventura Cerqueira Batista 
+![Contribuindo](https://img.shields.io/badge/Contribuindo-%23F7B500?style=for-the-badge&logo=github&logoColor=white&color=yellow&label=Contribuindo%20no%20GitHub&labelColor=black)
 
-**`Desenvolvedor/B.I.`**
-
+**`Desenvolvedor | Business Intelligence`**
 <p align="left">
     <a href="https://github.com/VenturaCerqueira?tab=repositories&sort=stargazers">
         <img 
@@ -20,18 +25,34 @@
     </a>
 </p>
 
-# 
+
+
+## 🌟 Sobre mim:
 
 👋🏻 Olá me chamo **Anderson Ventura Cerqueira Batista**, tudo bem com você? -- Espero que sim😊!  
    sou **Analista de Sistemas**, apaixonado por tecnologia e criação de soluções incríveis. Minha vibe é full-stack, mas meu coração bate forte por:
 - **Back-end**: Node.js e Python na veia! 🐍✨  
 - **Banco de Dados**: Domínio de SQL com Firebird e MySQL 🎯
   <br>
-Estou sempre em busca de novos desafios e oportunidades para aprender algo da hora. 💡
-
-#
-    
-### 📲 Contatos:
+  
+> **Transformando dados e tecnologia em soluções práticas e inovadoras!**
+> 
+## 👋 Hello, World!
+ 🐍 **Python** 
+```python
+print("Hello, World!")
+```
+🚀 JavaScript
+```javascript
+console.log("Hello, World!");
+```
+🏆 MySQL
+```mysql
+SELECT * 
+FROM brasil 
+WHERE cidade = 'SALVADOR';
+```
+## 📬 Contato:
     
 <a href="https://www.linkedin.com/in/anderson-ventura-cerqueira-batista-06369a175/"><img src="https://img.icons8.com/color/96/000000/linkedin.png" alt="linkedin" style="width: 50px; height: 50px;"/></a>
 <a href="https://discord.gg/andersonventuracerqueiraE"><img src="https://img.icons8.com/color/96/000000/discord-logo.png" alt="discord" style="width: 50px; height: 50px;"/></a>
@@ -40,10 +61,15 @@ Estou sempre em busca de novos desafios e oportunidades para aprender algo da ho
 <a href="https://fr.pinterest.com/andersonventura2000"><img src="https://img.icons8.com/color/96/000000/pinterest--v1.png" alt="pinterest" style="width: 50px; height: 50px;"/></a>
 <a href="andersonventura2000@gmail.com"><img src="https://img.icons8.com/color/96/000000/gmail.png" alt="email" style="width: 50px; height: 50px;"/></a>
 <a href="https://hub.docker.com/u/matyo91"><img src="https://img.icons8.com/color/96/000000/docker.png" alt="docker" style="width: 50px; height: 50px;"/></a>
-  
-# 
 
-### 🤖 Linguagens e Tecnologias:
+## 🌍 Localização e Idiomas
+
+📍 **Localização**: Salvador, Bahia, Brasil  
+🌎 **Idiomas**: Português (Nativo), Inglês (básico), Espanhol (Básico)
+
+
+## 🛠️ Tecnologias:
+<div style="display: flex; justify-content: center; gap: 10px;">
 <img 
     align="left" 
     alt="HTML"
@@ -126,13 +152,13 @@ Estou sempre em busca de novos desafios e oportunidades para aprender algo da ho
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
 />
+</div>
 
 <br/>
 <br/>
 
-#
 
-### 📊 Estatísticas:
+## 📊 Estatísticas:
 <p style="display: flex; flex-direction: row; justify-content: center; align-items: flex-start; gap: 10px; margin: 0;">
   <img 
     alt="GitHub Stats" 
@@ -146,3 +172,34 @@ Estou sempre em busca de novos desafios e oportunidades para aprender algo da ho
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=VenturaCerqueira&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
   />
 </p>
+
+## 💡 Habilidades
+
+### 🔧 Ferramentas e Tecnologias:
+- **Backend**: Node.js, Express.js, Python
+- **Frontend**: React.js, HTML, CSS, JavaScript
+- **Banco de Dados**: MySQL, Firebase, SqlServer
+- **DevOps**: Docker, Heroku, AWS
+- **Outros**: Git, GitHub, APIs REST, GraphQL
+
+## 💖 Como me ajudar?
+
+Se você curtiu meus projetos ou achou algo útil, considere:  
+- 🌟 **Dando uma estrela** nos repositórios  
+- 🍺 **Me oferecendo um café** via [Buy Me a Coffee](https://www.buymeacoffee.com/seulink)  
+- 💬 **Enviando feedback** ou sugestões no GitHub  
+- 🤝 **Compartilhando** com a comunidade
+- 
+## 🎧 Playlist de Desenvolvimento
+
+🎵 **Minha playlist para codar**:
+- [Dev Beats](https://www.spotify.com/playlist/id-do-playlist)
+- [Coding Music](https://www.spotify.com/playlist/id-do-playlist)
+
+
+
+##
+
+<div align="center" style="font-size: 14px; color: #777;">
+  Criado com 💙 por Anderson Ventura | 2025
+</div>
