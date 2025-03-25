@@ -1,7 +1,3 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=22&width=600&color=000000&lines=👨‍💻+Desenvolvedor+Full-stack;🐍+Python+e+Node.js+Fanboy;💡+Apaixonado+por+soluções+criativas)](https://git.io/typing-svg)
-
-
-
 # 👨🏻‍💻 Anderson Ventura Cerqueira Batista 
 ![Contribuindo](https://img.shields.io/badge/Contribuindo-%23F7B500?style=for-the-badge&logo=github&logoColor=white&color=yellow&label=Contribuindo%20no%20GitHub&labelColor=black)
 
@@ -185,7 +181,7 @@ Se você curtiu meus projetos ou achou algo útil, considere:
 - 🍺 **Me oferecendo um café** via [Buy Me a Coffee](https://www.buymeacoffee.com/seulink)  
 - 💬 **Enviando feedback** ou sugestões no GitHub  
 - 🤝 **Compartilhando** com a comunidade
-- 
+
 ## 🎧 Playlist de Desenvolvimento
 
 🎵 **Minha playlist para codar**:
