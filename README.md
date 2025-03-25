@@ -133,19 +133,16 @@ Estou sempre em busca de novos desafios e oportunidades para aprender algo da ho
 #
 
 ### 📊 Estatísticas:
-
-<div style="display: flex; flex-wrap: nowrap; justify-content: center; align-items: flex-start; gap: 20px; overflow: hidden;">
-   
+<p style="display: flex; flex-direction: row; justify-content: center; align-items: flex-start; gap: 10px; margin: 0;">
   <img 
     alt="GitHub Stats" 
-    style="width: 50%; max-width: 600px; height: auto;" 
+    height="213" 
+    style="padding-right: 10px;" 
     src="https://github-readme-stats.vercel.app/api?username=VenturaCerqueira&show_icons=true&theme=tokyonight&include_all_commits=True&locale=pt-br" 
   />
-  
   <img 
     alt="GitHub Stats" 
-    style="width: 50%; max-width: 600px; height: auto;" 
+    height="213" 
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=VenturaCerqueira&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
   />
-
-</div>
+</p>
