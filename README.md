@@ -22,8 +22,6 @@
     </a>
 </p>
 
-
-
 ## 🌟 Sobre mim:
 
 👋🏻 Olá me chamo **Anderson Ventura Cerqueira Batista**, tudo bem com você? -- Espero que sim😊!  
@@ -156,7 +154,7 @@ WHERE cidade = 'SALVADOR';
 
 
 ## 📊 Estatísticas:
-<p style="display: flex; flex-direction: row; align-items: flex-start; gap: 10px; margin: 0;">
+<p>
   <img 
     alt="GitHub Stats" 
     height="200" 
