@@ -1,6 +1,3 @@
-[![Dark Mode](https://img.shields.io/badge/Dark%20Mode-000000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/VenturaCerqueira)
-[![Light Mode](https://img.shields.io/badge/Light%20Mode-FFFFFF?style=for-the-badge&logo=github&logoColor=black)](https://github.com/VenturaCerqueira)
-
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?size=22&width=600&color=000000&lines=👨‍💻+Desenvolvedor+Full-stack;🐍+Python+e+Node.js+Fanboy;💡+Apaixonado+por+soluções+criativas)](https://git.io/typing-svg)
 
 
@@ -159,7 +156,7 @@ WHERE cidade = 'SALVADOR';
 
 
 ## 📊 Estatísticas:
-<p style="display: flex; flex-direction: row; justify-content: center; align-items: flex-start; gap: 10px; margin: 0;">
+<p style="display: flex; flex-direction: row; align-items: flex-start; gap: 10px; margin: 0;">
   <img 
     alt="GitHub Stats" 
     height="200" 
