@@ -46,9 +46,18 @@ WHERE cidade = 'SALVADOR';
 ```
 ## 📬 Contato:
     
-<a href="https://www.linkedin.com/in/anderson-ventura-cerqueira-batista-06369a175/"><img src="https://img.icons8.com/color/96/000000/linkedin.png" alt="linkedin" style="width: 50px; height: 50px;"/></a>
-<a href="https://www.instagram.com/andersonventuracerqueira"><img src="https://img.icons8.com/color/96/000000/instagram-new.png" alt="instagram" style="width: 50px; height: 50px;"/></a>
-<a href="https://fr.pinterest.com/andersonventura2000"><img src="https://img.icons8.com/color/96/000000/pinterest--v1.png" alt="pinterest" style="width: 50px; height: 50px;"/></a>
+<p align="center">
+    <a href="https://www.linkedin.com/in/anderson-ventura-cerqueira-batista-06369a175/" title="LinkedIn" target="_blank"><img src="https://img.icons8.com/color/96/000000/linkedin.png" alt="linkedin" style="width: 60px; height: 60px; margin: 10px; transition: transform 0.3s, box-shadow 0.3s; border-radius: 15px;"/></a>
+    <a href="https://discord.gg/andersonventuracerqueiraE" title="Discord" target="_blank"><img src="https://img.icons8.com/color/96/000000/discord-logo.png" alt="discord" style="width: 60px; height: 60px; margin: 10px; transition: transform 0.3s, box-shadow 0.3s; border-radius: 15px;"/></a>
+    <a href="https://www.instagram.com/andersonventuracerqueira" title="Instagram" target="_blank"><img src="https://img.icons8.com/color/96/000000/instagram-new.png" alt="instagram" style="width: 60px; height: 60px; margin: 10px; transition: transform 0.3s, box-shadow 0.3s; border-radius: 15px;"/></a>
+    <a href="https://www.facebook.com/" title="Facebook" target="_blank"><img src="https://img.icons8.com/color/96/000000/facebook.png" alt="facebook" style="width: 60px; height: 60px; margin: 10px; transition: transform 0.3s, box-shadow 0.3s; border-radius: 15px;"/></a>
+    <a href="mailto:andersonventura2000@gmail.com" title="Gmail" target="_blank"><img src="https://img.icons8.com/color/96/000000/gmail.png" alt="gmail" style="width: 60px; height: 60px; margin: 10px; transition: transform 0.3s, box-shadow 0.3s; border-radius: 15px;"/></a>
+    <a href="https://wa.me/5571993743097" title="WhatsApp" target="_blank"><img src="https://img.icons8.com/color/96/000000/whatsapp.png" alt="whatsapp" style="width: 60px; height: 60px; margin: 10px; transition: transform 0.3s, box-shadow 0.3s; border-radius: 15px;"/></a>
+</p>
+
+<p align="center" style="font-size: 14px; color: #888;">
+    <span>Conecte-se comigo nas
+
 
 ## 🌍 Localização e Idiomas
 
