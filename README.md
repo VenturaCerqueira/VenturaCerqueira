@@ -1,15 +1,7 @@
+   
 # 👨🏻‍💻 Anderson Ventura Cerqueira Batista 
 
 **`Desenvolvedor/B.I.`**
-
-Fala aí! Sou **Analista de Sistemas**, apaixonado por tecnologia e criação de soluções incríveis. Minha vibe é full-stack, mas meu coração bate forte por:
-- **Back-end**: Node.js e Python na veia! 🐍✨  
-- **Banco de Dados**: Domínio de SQL com Firebird e MySQL 🎯 
-Estou sempre em busca de novos desafios e oportunidades para aprender algo da hora. 💡
-
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/andersonventuracerqueira/)
-
-
 
 <p align="left">
     <a href="https://github.com/VenturaCerqueira?tab=repositories&sort=stargazers">
@@ -28,11 +20,30 @@ Estou sempre em busca de novos desafios e oportunidades para aprender algo da ho
     </a>
 </p>
 
+# 
 
----
+👋🏻 Olá me chamo **Anderson Ventura Cerqueira Batista**, tudo bem com você? -- Espero que sim😊!  
+   sou **Analista de Sistemas**, apaixonado por tecnologia e criação de soluções incríveis. Minha vibe é full-stack, mas meu coração bate forte por:
+- **Back-end**: Node.js e Python na veia! 🐍✨  
+- **Banco de Dados**: Domínio de SQL com Firebird e MySQL 🎯
+  <br>
+Estou sempre em busca de novos desafios e oportunidades para aprender algo da hora. 💡
 
-### 🤖 Linguagens e Tecnologias
+#
+    
+### 📲 Contatos:
+    
+<a href="https://www.linkedin.com/in/anderson-ventura-cerqueira-batista-06369a175/"><img src="https://img.icons8.com/color/96/000000/linkedin.png" alt="linkedin" style="width: 50px; height: 50px;"/></a>
+<a href="https://discord.gg/andersonventuracerqueiraE"><img src="https://img.icons8.com/color/96/000000/discord-logo.png" alt="discord" style="width: 50px; height: 50px;"/></a>
+<a href="https://www.instagram.com/andersonventuracerqueira"><img src="https://img.icons8.com/color/96/000000/instagram-new.png" alt="instagram" style="width: 50px; height: 50px;"/></a>
+<a href="https://www.facebook.com/"><img src="https://img.icons8.com/color/96/000000/facebook.png" alt="facebook" style="width: 50px; height: 50px;"/></a>
+<a href="https://fr.pinterest.com/andersonventura2000"><img src="https://img.icons8.com/color/96/000000/pinterest--v1.png" alt="pinterest" style="width: 50px; height: 50px;"/></a>
+<a href="andersonventura2000@gmail.com"><img src="https://img.icons8.com/color/96/000000/gmail.png" alt="email" style="width: 50px; height: 50px;"/></a>
+<a href="https://hub.docker.com/u/matyo91"><img src="https://img.icons8.com/color/96/000000/docker.png" alt="docker" style="width: 50px; height: 50px;"/></a>
+  
+# 
 
+### 🤖 Linguagens e Tecnologias:
 <img 
     align="left" 
     alt="HTML"
@@ -119,7 +130,11 @@ Estou sempre em busca de novos desafios e oportunidades para aprender algo da ho
 <br/>
 <br/>
 
-### 📊 Estatísticas
+#
+
+### 📊 Estatísticas:
+
+
 
 <p>
   <img 
@@ -138,4 +153,6 @@ Estou sempre em busca de novos desafios e oportunidades para aprender algo da ho
   />
 
 </p>
+
+
 
