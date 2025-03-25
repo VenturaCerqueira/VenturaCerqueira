@@ -47,12 +47,8 @@ WHERE cidade = 'SALVADOR';
 ## 📬 Contato:
     
 <a href="https://www.linkedin.com/in/anderson-ventura-cerqueira-batista-06369a175/"><img src="https://img.icons8.com/color/96/000000/linkedin.png" alt="linkedin" style="width: 50px; height: 50px;"/></a>
-<a href="https://discord.gg/andersonventuracerqueiraE"><img src="https://img.icons8.com/color/96/000000/discord-logo.png" alt="discord" style="width: 50px; height: 50px;"/></a>
 <a href="https://www.instagram.com/andersonventuracerqueira"><img src="https://img.icons8.com/color/96/000000/instagram-new.png" alt="instagram" style="width: 50px; height: 50px;"/></a>
-<a href="https://www.facebook.com/"><img src="https://img.icons8.com/color/96/000000/facebook.png" alt="facebook" style="width: 50px; height: 50px;"/></a>
 <a href="https://fr.pinterest.com/andersonventura2000"><img src="https://img.icons8.com/color/96/000000/pinterest--v1.png" alt="pinterest" style="width: 50px; height: 50px;"/></a>
-<a href="andersonventura2000@gmail.com"><img src="https://img.icons8.com/color/96/000000/gmail.png" alt="email" style="width: 50px; height: 50px;"/></a>
-<a href="https://hub.docker.com/u/matyo91"><img src="https://img.icons8.com/color/96/000000/docker.png" alt="docker" style="width: 50px; height: 50px;"/></a>
 
 ## 🌍 Localização e Idiomas
 
