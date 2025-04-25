@@ -23,7 +23,7 @@
 
 👋🏻 Olá me chamo **Anderson Ventura Cerqueira Batista**, tudo bem com você? -- Espero que sim😊!  
    sou **Analista de Sistemas**, apaixonado por tecnologia e criação de soluções incríveis. Minha vibe é full-stack, mas meu coração bate forte por:
-- **Back-end**: Node.js e Python na veia! 🐍✨  
+- **Back-end**: Node.js e Python na veia! 🐍✨ (Buscando conhecimento em Go) 
 - **Banco de Dados**: Domínio de SQL com Firebird e MySQL 🎯
   <br>
   
